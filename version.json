@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-03-24",
-  "download_url": "https://github.com/h9315471-droid/Telegramdownloader/releases/download/v1.0.1/Telegram_Downloader.exe",
+  "download_url": "https://github.com/h9315471-droid/Telegramdownloader/releases/download/V1.0.2/Telegram_Downloader.exe",
   "changelog": [
     "Added in-app update feature",
     "Improved download stability",
